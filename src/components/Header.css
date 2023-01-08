@@ -1,0 +1,14 @@
+.container{
+    padding-left: 70px;
+    padding-right: 70px;
+  }
+  
+  img{
+    width: 20%;
+  }
+  .btn{
+    background-color: #245156;
+  }
+  hr{
+    border: 1px solid black;
+  }

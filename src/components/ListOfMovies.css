@@ -1,0 +1,12 @@
+*{
+    background-color: whitesmoke;
+}
+.movieBlock{
+    width: 80%;
+    border-radius: 20px;
+    background-color:  #DDE8D6;
+    border: 3px solid #CAD2C5;
+}
+.movieBlock div{
+    background-color: #DDE8D6;
+}
